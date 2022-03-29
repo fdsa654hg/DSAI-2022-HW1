@@ -1,5 +1,19 @@
 # DSAI-2022-HW1
 
+## 環境
+python 3.6.4
+Ubuntu 20.04
+
+## 安裝套件
+```
+pip install -r requirement
+```
+
+## 執行
+```
+python app.py
+```
+
 ## 資料集
 主要使用 '近三年每日尖峰備轉容量率' 本年度每日尖峰備轉容量率' 作為train dataset<br>
 包含2019/1/1~2022/3/27的尖峰備轉容量
