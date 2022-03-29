@@ -6,7 +6,7 @@ Ubuntu 20.04
 
 ## 安裝套件
 ```
-pip install -r requirement
+pip install -r requirement.txt
 ```
 
 ## 執行
